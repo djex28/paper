@@ -1,0 +1,10 @@
+{
+  "name": "Paper",
+  "description": "Infinite Social Drawing",
+  "author": "Drew Jex and Braden Snell",
+  "dependencies": {
+    "express": "4.x",
+    "mongoose": "^4.4.11",
+    "socket.io": "*"
+  }
+}
